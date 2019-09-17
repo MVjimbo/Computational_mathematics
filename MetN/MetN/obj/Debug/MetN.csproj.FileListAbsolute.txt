@@ -1,0 +1,7 @@
+C:\C#\Вычислительная математика\MetN\MetN\bin\Debug\MetN.exe.config
+C:\C#\Вычислительная математика\MetN\MetN\bin\Debug\MetN.exe
+C:\C#\Вычислительная математика\MetN\MetN\bin\Debug\MetN.pdb
+C:\C#\Вычислительная математика\MetN\MetN\obj\Debug\MetN.csprojResolveAssemblyReference.cache
+C:\C#\Вычислительная математика\MetN\MetN\obj\Debug\MetN.csproj.CoreCompileInputs.cache
+C:\C#\Вычислительная математика\MetN\MetN\obj\Debug\MetN.exe
+C:\C#\Вычислительная математика\MetN\MetN\obj\Debug\MetN.pdb

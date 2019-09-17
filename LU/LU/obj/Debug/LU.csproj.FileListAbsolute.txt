@@ -1,0 +1,14 @@
+C:\C#\LU\LU\bin\Debug\LU.exe.config
+C:\C#\LU\LU\bin\Debug\LU.exe
+C:\C#\LU\LU\bin\Debug\LU.pdb
+C:\C#\LU\LU\obj\Debug\LU.csprojResolveAssemblyReference.cache
+C:\C#\LU\LU\obj\Debug\LU.csproj.CoreCompileInputs.cache
+C:\C#\LU\LU\obj\Debug\LU.exe
+C:\C#\LU\LU\obj\Debug\LU.pdb
+C:\C#\Вычислительная математика\LU\LU\bin\Debug\LU.exe.config
+C:\C#\Вычислительная математика\LU\LU\bin\Debug\LU.exe
+C:\C#\Вычислительная математика\LU\LU\bin\Debug\LU.pdb
+C:\C#\Вычислительная математика\LU\LU\obj\Debug\LU.csprojResolveAssemblyReference.cache
+C:\C#\Вычислительная математика\LU\LU\obj\Debug\LU.csproj.CoreCompileInputs.cache
+C:\C#\Вычислительная математика\LU\LU\obj\Debug\LU.exe
+C:\C#\Вычислительная математика\LU\LU\obj\Debug\LU.pdb

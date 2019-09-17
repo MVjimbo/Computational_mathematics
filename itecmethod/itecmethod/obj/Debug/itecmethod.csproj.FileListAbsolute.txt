@@ -1,0 +1,7 @@
+C:\C#\Вычислительная математика\itecmethod\itecmethod\bin\Debug\itecmethod.exe.config
+C:\C#\Вычислительная математика\itecmethod\itecmethod\bin\Debug\itecmethod.exe
+C:\C#\Вычислительная математика\itecmethod\itecmethod\bin\Debug\itecmethod.pdb
+C:\C#\Вычислительная математика\itecmethod\itecmethod\obj\Debug\itecmethod.csprojResolveAssemblyReference.cache
+C:\C#\Вычислительная математика\itecmethod\itecmethod\obj\Debug\itecmethod.csproj.CoreCompileInputs.cache
+C:\C#\Вычислительная математика\itecmethod\itecmethod\obj\Debug\itecmethod.exe
+C:\C#\Вычислительная математика\itecmethod\itecmethod\obj\Debug\itecmethod.pdb

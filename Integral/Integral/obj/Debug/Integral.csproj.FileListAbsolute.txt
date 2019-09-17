@@ -1,0 +1,7 @@
+C:\C#\Вычислительная математика\Integral\Integral\bin\Debug\Integral.exe.config
+C:\C#\Вычислительная математика\Integral\Integral\bin\Debug\Integral.exe
+C:\C#\Вычислительная математика\Integral\Integral\bin\Debug\Integral.pdb
+C:\C#\Вычислительная математика\Integral\Integral\obj\Debug\Integral.csprojResolveAssemblyReference.cache
+C:\C#\Вычислительная математика\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+C:\C#\Вычислительная математика\Integral\Integral\obj\Debug\Integral.exe
+C:\C#\Вычислительная математика\Integral\Integral\obj\Debug\Integral.pdb
